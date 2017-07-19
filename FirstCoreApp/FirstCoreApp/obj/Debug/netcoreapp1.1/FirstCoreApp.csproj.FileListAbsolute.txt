@@ -1,0 +1,9 @@
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp1.1\FirstCoreApp.deps.json
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp1.1\FirstCoreApp.runtimeconfig.json
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp1.1\FirstCoreApp.runtimeconfig.dev.json
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp1.1\FirstCoreApp.dll
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp1.1\FirstCoreApp.pdb
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp1.1\FirstCoreApp.csprojResolveAssemblyReference.cache
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp1.1\FirstCoreApp.AssemblyInfo.cs
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp1.1\FirstCoreApp.dll
+C:\GitHub\gittest\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp1.1\FirstCoreApp.pdb
